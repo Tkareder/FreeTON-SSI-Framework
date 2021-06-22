@@ -1,2 +1,5 @@
-# FreeTON-SSI-Framework
-The whitepaper describes the main actors, functionality and technologies of SSI based on the FreeTON blockchain. The proposed system forms the technical requirements user paths based on the interaction of users, issuers and verificators thru the external API and the blockchain network. The proposed architecture allows you to quickly and safely identify a user when solving problems of varying degrees of complexity - government services, financial transactions, healthcare procedures and any processes where user identification is required. A mechanism is also provided for the inclusion of institutions in the number of trusted verifiers through the voting of network participants. Described proposed customerjourneys for user identification and verification, issuer registration, and verifier approval. The advantages of the proposed solutions are the scalability of SSI and the transparency of its functioning for all participants in the identification process. 
+
+This whitepaper was made for contest:
+
+Contest: https://defi.gov.freeton.org/proposal?proposalAddress=0%3Ae07e96387727372e68f71842e6261e2d79f3d547eb13020f63fa62ce8bc40d6a
+
